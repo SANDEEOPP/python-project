@@ -1,0 +1,5 @@
+Income: 15000.0, Credit Score: 700.0, Debt-to-Income Ratio: 4.0, Result: Denied
+Income: 9000.0, Credit Score: 300.0, Debt-to-Income Ratio: 7.9, Result: Denied
+Income: 15000.0, Credit Score: 700.0, Debt-to-Income Ratio: 4.0, Result: Approved
+Income: 3000.0, Credit Score: 7900.0, interest: 878.0, Result: Denied
+Income: 10000.0, Credit Score: 762.0, interest: 2.0, Result: Approved
