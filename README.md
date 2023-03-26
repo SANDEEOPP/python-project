@@ -3,7 +3,7 @@ lambda function for add items to cart
 import json
 import psycopg2
 import os
-
+```
 def lambda_handler(event, context):
     # Extract necessary parameters from event
     user_id = event['user_id']
@@ -197,3 +197,4 @@ def get_user_info(user_id):
             print(f'Server error: {e}')
     except requests.exceptions.RequestException as e:
         print(f'Request error: {e}')
+        ```
